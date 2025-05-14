@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/banner.svg" alt="Andreas Thommen - German Innovation" width="100%">
+  <img src="made-in-germany.jpg" alt="Andreas Thommen - German Innovation" width="100%">
 </div>
 
 <div align="center">
