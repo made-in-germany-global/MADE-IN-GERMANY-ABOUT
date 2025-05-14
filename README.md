@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/vision-icon.svg" width="32" align="center"> Vision
+## 🚀 Vision
 
 Ich entwickle Plattformen, die deutsche Industrie, Technologie und nachhaltige Innovationen **weltweit zugänglich** machen. Mein Ziel ist es, die Stärken deutscher Ingenieurskunst mit zukunftsweisenden digitalen Lösungen zu verbinden und so einen Beitrag zur nachhaltigen Entwicklung zu leisten.
 
@@ -28,23 +28,23 @@ Ich entwickle Plattformen, die deutsche Industrie, Technologie und nachhaltige I
 
 ---
 
-## <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/projects-icon.svg" width="32" align="center"> Flagship-Projekte
+## 🛠️ Flagship-Projekte
 
 <div align="center">
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/mig-icon.svg" width="64">
+        <h3>🏭</h3>
         <br><strong><a href="https://github.com/deinusername/made-in-germany">Made in Germany</a></strong>
         <br>Die digitale Plattform für deutsche Qualitätsprodukte und Innovationen
       </td>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/g4f-icon.svg" width="64">
+        <h3>🌱</h3>
         <br><strong><a href="https://github.com/deinusername/germany-for-future">Germany for Future</a></strong>
         <br>Nachhaltige Technologien für globale Herausforderungen
       </td>
       <td width="33%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/next-icon.svg" width="64">
+        <h3>🚀</h3>
         <br><strong><a href="https://github.com/deinusername/next-germany">Next Germany</a></strong>
         <br>Zukunftstechnologien und digitale Transformation
       </td>
@@ -54,7 +54,7 @@ Ich entwickle Plattformen, die deutsche Industrie, Technologie und nachhaltige I
 
 ---
 
-## <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/tech-icon.svg" width="32" align="center"> Tech-Stack
+## 💻 Tech-Stack
 
 <div align="center">
   
@@ -70,25 +70,25 @@ Ich entwickle Plattformen, die deutsche Industrie, Technologie und nachhaltige I
 
 ---
 
-## <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/values-icon.svg" width="32" align="center"> Grundwerte
+## ⚡ Grundwerte
 
 <div align="center">
   <table>
     <tr>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/innovation-icon.svg" width="48">
+        <h3>💡</h3>
         <br><strong>Innovation</strong>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/quality-icon.svg" width="48">
+        <h3>🔍</h3>
         <br><strong>Qualität</strong>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/sustainability-icon.svg" width="48">
+        <h3>🌍</h3>
         <br><strong>Nachhaltigkeit</strong>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/collaboration-icon.svg" width="48">
+        <h3>🤝</h3>
         <br><strong>Zusammenarbeit</strong>
       </td>
     </tr>
@@ -97,7 +97,7 @@ Ich entwickle Plattformen, die deutsche Industrie, Technologie und nachhaltige I
 
 ---
 
-## <img src="https://raw.githubusercontent.com/deinusername/made-in-germany/main/assets/stats-icon.svg" width="32" align="center"> GitHub Statistiken
+## 📊 GitHub Statistiken
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&theme=dark&bg_color=191F2C&icon_color=0088FF&title_color=0088FF&text_color=FFFFFF"/>
