@@ -272,9 +272,9 @@ Fortschrittliche chemische und pharmazeutische Lösungen, die Innovation branche
 
 <div align="center">
 
-🌐 **Plattform:** [made-in-germany.de](https://made-in-germany.de)
+🌐 **Plattform:** [made-in-germany.global](https://made-in-germany.global)
 
-📧 **Kontakt:** kontakt@made-in-germany.de
+📧 **Kontakt:** hello@made-in-germany.global
 
 🔮 **Industrie 4.0 Ready** | **KI-gestützt** | **Globaler Maßstab**
 
