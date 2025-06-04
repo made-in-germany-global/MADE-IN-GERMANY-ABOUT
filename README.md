@@ -137,9 +137,9 @@ Advanced chemical and pharmaceutical solutions powering innovation across indust
 
 <div align="center">
 
-🌐 **Platform:** [made-in-germany.de](https://made-in-germany.de)
+🌐 **Platform:** [made-in-germany.global](https://made-in-germany.global)
 
-📧 **Contact:** kontakt@made-in-germany.de
+📧 **Contact:** hello@made-in-germany.global
 
 🔮 **Industry 4.0 Ready** | **AI-Powered** | **Global Scale**
 
@@ -147,7 +147,7 @@ Advanced chemical and pharmaceutical solutions powering innovation across indust
 
 ---
 
-# 🇩🇪 Made in Germany | Digitale Industrielle Exzellenz 2025+
+#  Made in Germany International | Digitale Industrielle Exzellenz 2025+
 
 <div align="center">
 
